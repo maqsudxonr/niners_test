@@ -1,0 +1,280 @@
+@media(max-width: 1395){
+
+    .films_title{
+        padding-top: 0;
+    }
+
+}
+
+@media(max-width: 1100px){
+    
+    .item2{
+        grid-column: span 4;
+    }
+    
+    .item3{
+        grid-column: span 2;
+        min-height: 200px;
+    }
+
+    .choice__content-cards{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+}
+
+@media(max-width: 1157px){
+
+    .header_img{
+        margin-top: 50px;
+        margin-left: 300px;
+    }
+
+    .header__title{
+        text-align: center;
+    }
+
+    .header__in-box{
+        display: flex;
+        justify-content: center;
+        margin-left: 300px;
+    }
+
+    .header__btns{
+        justify-content: center;
+    }
+
+    .header_img{
+        display: none;
+    }
+
+}
+
+@media(max-width: 992px){}
+
+@media(max-width: 943px){
+
+    .header__in-box{
+        margin-left: 250px;
+    }
+
+}
+
+@media(max-width: 854px){
+
+    .header__in-box{
+        margin-left: 150px;
+    }
+
+}
+
+@media(max-width: 768px){
+    
+    .header__title{
+        text-align: center;
+        font-size: 55px;
+    }
+    
+    .header__subtitle{
+        margin: 0 auto;
+    }
+    
+    .header__btns{
+        justify-content: center;
+    }
+    
+    .footer__box{
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    .start__card-title{
+        font-size: 30px;
+    }
+
+    .start__card-text{
+        font-size: 14px;
+    }
+
+    .start__card-link{
+        padding: 15px 40px;
+    }
+    
+}
+
+@media(max-width: 632px){
+    .choice__content-cards{
+        display: none;
+    }
+
+    .choice__content-title{
+        padding-bottom: 0px;
+        font-size: 40px;
+    }
+
+    .test__content-title{
+        font-size: 40px;
+    }
+
+    .slider{
+        display: block;
+        padding-bottom: 90px;
+        margin-top: -120px;
+    }
+
+}
+
+@media(max-width: 576px){
+    
+
+    
+    .nav__link{
+        flex-direction: column;
+        padding-top: 50px;
+        justify-content: center;
+    }
+    
+    .nav__list{
+        column-gap: 20px;
+    }
+    
+    .header__title{
+        font-size: 40px;
+        padding: 110px 0 30px;
+    }
+    
+    .title{
+        margin: 50px auto;
+    }
+    
+    .premier__content-img{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+    }
+    
+    .btn{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        text-align: center;
+        max-width: max-content;
+    }
+    
+    .item1__subtitle{
+        text-align: justify;
+    }
+    
+    .item3{
+        grid-column: span 4;
+    }
+
+    .header__in-box{
+        margin-left: 100px;
+    }
+
+    .films_title{
+        font-size: 40px;
+    }
+
+    .choice__content-title{
+        font-size: 40px;
+    }
+    
+}
+
+@media(max-width: 460px){
+    
+    .premier__content-img{
+        width: 300px;
+    }
+    
+    .item1__title{
+        font-size: 25px;
+    }
+
+    .header__in-box{
+        margin-left: 50px;
+    }
+
+    .start__card-title{
+        font-size: 25px;
+    }
+
+    .start__card-text{
+        font-size: 12px;
+    }
+
+    .start__card-link{
+        padding: 15px 40px;
+    }   
+    
+}
+
+@media(max-width: 420px){
+    .header__title{
+        font-size: 40px;
+    }
+    
+    .header__btns{
+        flex-wrap: wrap;
+        row-gap: 30px;
+    }
+    
+    .premier__content-img{
+        width: 250px;
+    }
+    
+    .title{
+        font-size: 30px;
+    }
+    
+    .item1__subtitle{
+        font-size: 14px;
+    }
+    
+    .btn{
+        padding: 15px 30px;
+    }
+    
+    .icon{
+        font-size: 50px;
+    }
+    
+    .footer__box-title{
+        font-size: 15px;
+    }
+    
+    .footer__box-img{
+        margin-right: 20px;
+    }
+    
+    
+}
+
+@media(max-width: 380px){
+
+    .start__card-title{
+        font-size: 20px;
+    }
+
+    .start__card-text{
+        font-size: 12px;
+    }
+
+    .start__card-link{
+        padding: 15px 40px;
+    }
+
+}
+
+@media(max-width: 360px){
+
+    .header__in-box{
+        margin-left: 10px;
+    }
+
+}
+
+@media(max-width: 320px){}

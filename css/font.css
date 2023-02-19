@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'NunitoSans-Regular';
+    src: url(../fonts/NunitoSans-Regular.ttf); /* 400 */
+}
+
+@font-face {
+    font-family: 'NunitoSans-SemiBold';
+    src: url(../fonts/NunitoSans-SemiBold.ttf); /* 600 */
+}
+
+@font-face {
+    font-family: 'NunitoSans-Bold';
+    src: url(../fonts/NunitoSans-Bold.ttf); /* 700 */
+}
+
+@font-face {
+    font-family: 'NunitoSans-ExtraBold';
+    src: url(../fonts/NunitoSans-ExtraBold.ttf); /* 800 */
+}
+
+@font-face {
+    font-family: 'BebasNeue-Regular';
+    src: url(../fonts/BebasNeue-Regular.ttf); /* 800 */
+}
